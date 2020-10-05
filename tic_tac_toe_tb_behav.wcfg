@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tic_tac_toe_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tic_tac_toe_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1576000001fs"></ZoomEndTime>
+      <Cursor1Time time="3000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="81"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/tic_tac_toe_tb/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tic_tac_toe_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tic_tac_toe_tb/play" type="logic">
+      <obj_property name="ElementShortName">play</obj_property>
+      <obj_property name="ObjectShortName">play</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tic_tac_toe_tb/pc" type="logic">
+      <obj_property name="ElementShortName">pc</obj_property>
+      <obj_property name="ObjectShortName">pc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tic_tac_toe_tb/computer_position" type="array">
+      <obj_property name="ElementShortName">computer_position[3:0]</obj_property>
+      <obj_property name="ObjectShortName">computer_position[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tic_tac_toe_tb/player_position" type="array">
+      <obj_property name="ElementShortName">player_position[3:0]</obj_property>
+      <obj_property name="ObjectShortName">player_position[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tic_tac_toe_tb/position1" type="array">
+      <obj_property name="ElementShortName">position1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">position1[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tic_tac_toe_tb/position2" type="array">
+      <obj_property name="ElementShortName">position2[1:0]</obj_property>
+      <obj_property name="ObjectShortName">position2[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tic_tac_toe_tb/position3" type="array">
+      <obj_property name="ElementShortName">position3[1:0]</obj_property>
+      <obj_property name="ObjectShortName">position3[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tic_tac_toe_tb/position4" type="array">
+      <obj_property name="ElementShortName">position4[1:0]</obj_property>
+      <obj_property name="ObjectShortName">position4[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tic_tac_toe_tb/position5" type="array">
+      <obj_property name="ElementShortName">position5[1:0]</obj_property>
+      <obj_property name="ObjectShortName">position5[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tic_tac_toe_tb/position6" type="array">
+      <obj_property name="ElementShortName">position6[1:0]</obj_property>
+      <obj_property name="ObjectShortName">position6[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tic_tac_toe_tb/position7" type="array">
+      <obj_property name="ElementShortName">position7[1:0]</obj_property>
+      <obj_property name="ObjectShortName">position7[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tic_tac_toe_tb/position8" type="array">
+      <obj_property name="ElementShortName">position8[1:0]</obj_property>
+      <obj_property name="ObjectShortName">position8[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tic_tac_toe_tb/position9" type="array">
+      <obj_property name="ElementShortName">position9[1:0]</obj_property>
+      <obj_property name="ObjectShortName">position9[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tic_tac_toe_tb/who" type="array">
+      <obj_property name="ElementShortName">who[1:0]</obj_property>
+      <obj_property name="ObjectShortName">who[1:0]</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Taha/tic_tac_toe/tic_tac_toe.sim/sim_1/impl/timing/xsim/tb_tic_tac_toe_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Tic_Tac_Toe_game
+INFO: [VRFC 10-311] analyzing module fsm_controller
+INFO: [VRFC 10-311] analyzing module position_registers
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Taha/tic_tac_toe/tic_tac_toe.srcs/sim_1/new/tic_tac_toe_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_tic_tac_toe
+ERROR: [VRFC 10-1412] syntax error near # [C:/Users/Taha/tic_tac_toe/tic_tac_toe.srcs/sim_1/new/tic_tac_toe_tb.v:114]
+ERROR: [VRFC 10-2787] module tb_tic_tac_toe ignored due to previous errors [C:/Users/Taha/tic_tac_toe/tic_tac_toe.srcs/sim_1/new/tic_tac_toe_tb.v:5]
